@@ -1,138 +1,168 @@
 <h1 align="center">TürkGPT</h1>
 
-<h3 align="center">TürkGPT – Türk Yapay Zeka</h3>
+<h3 align="center">TürkGPT – Turkish AI Assistant</h3>
 
-<h4 align="center">Türkçe Yapay Zekâ Asistanı • Android</h4>
+<h4 align="center">
+  Turkish-Focused AI Assistant • Android Mobile App
+</h4>
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/WOFtMqO6R3kTVpJ5mnSLIuN3M2AOqoO0J9h-XAYUuQ6g7wH3XpeGUzeVYNjIzof6hGA=w240-h480-rw" 
-       alt="TürkGPT - Türk Yapay Zeka Uygulaması"
-       width="240">
+       alt="TürkGPT App Icon"
+       width="220">
 </p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt">
-    <img src="https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=googleplay">
+    <img src="https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=googleplay" alt="Google Play">
   </a>
 </p>
 
 <p align="center">
-<strong>TürkGPT – Türk Yapay Zeka</strong>, Türkçe odaklı geliştirilmiş bir yapay zekâ asistanıdır.  
-Hızlı, sade ve gerçekten işe yarayan bir deneyim sunmayı hedefler.
+  <strong>TürkGPT</strong> is a Turkish-focused AI assistant mobile application designed to provide a simple, fast, and user-friendly AI chat experience.
 </p>
 
-<hr>
+---
 
-<h2>🚀 TürkGPT Nedir?</h2>
+## 🚀 About the Project
 
-<p>
-<strong>TürkGPT – Türk Yapay Zeka</strong>, Türkçe konuşan kullanıcılar için özel olarak tasarlanmış
-<strong>bir yapay zekâ sohbet uygulamasıdır</strong>.
-</p>
+**TürkGPT – Turkish AI Assistant** is an Android mobile application built to help Turkish-speaking users benefit from artificial intelligence in their daily lives.
 
-<p>
-Kullanıcıların:
-</p>
+The app focuses on a clean and practical AI chat experience instead of a complicated interface.
 
-<ul>
-  <li>Metin yazmasına</li>
-  <li>Soru sormasına</li>
-  <li>Fikir üretmesine</li>
-  <li>Günlük işlerini kolaylaştırmasına</li>
-</ul>
+Users can use TürkGPT to:
 
-<p>
-yardımcı olmak için geliştirilmiştir.
-</p>
+- Ask questions
+- Generate text
+- Create ideas
+- Get quick answers
+- Improve productivity
+- Use AI tools in Turkish
+- Make daily tasks easier
 
-<hr>
+---
 
-<h2>✨ Özellikler</h2>
+## 🎯 Project Goal
 
-<ul>
-  <li>🇹🇷 <strong>Tam Türkçe Yapay Zekâ Sohbet</strong></li>
-  <li>✍️ Metin yazma, düzenleme ve fikir üretme</li>
-  <li>❓ Bilgi alma ve hızlı cevaplar</li>
-  <li>📱 Android uyumlu modern ve sade arayüz</li>
-  <li>⚡ Hızlı ve akıcı kullanım</li>
-  <li>🔒 Kullanıcı dostu yapı</li>
-</ul>
+The main goal of TürkGPT is to provide a fast, simple, and practical AI assistant experience for Turkish-speaking users.
 
-<hr>
+The app focuses on:
 
-<h2>🎯 Amaç</h2>
+- Turkish-first user experience
+- Simple and clean interface
+- Fast AI responses
+- Practical daily usage
+- Easy access to AI on mobile devices
 
-<blockquote>
-TürkGPT – Türk Yapay Zeka, Türkçe konuşan kullanıcılar için gerçekten kullanılabilir bir yapay zekâ asistanı sunmayı amaçlar.
-</blockquote>
+---
 
-<p>
-Bu uygulama:
-</p>
+## ✨ Features
 
-<ul>
-  <li>Gereksiz özelliklerle şişirilmiş AI uygulamalarına alternatif</li>
-  <li>Sade, anlaşılır ve hızlı</li>
-  <li>Türkçe düşünülerek geliştirilmiş</li>
-</ul>
+- 🇹🇷 Turkish AI chat experience
+- ✍️ Text generation and editing
+- ❓ Question answering
+- 💡 Idea generation
+- 📱 Android mobile interface
+- ⚡ Fast and smooth user experience
+- 🎨 Clean and user-friendly design
+- 🚀 Published on Google Play
 
-<p>
-bir çözümdür.
-</p>
+---
 
-<hr>
-
-<h2>📲 Google Play</h2>
-
-<p>
-Uygulamayı Google Play Store üzerinden indirebilirsiniz:
-</p>
-
-<p>
-👉 <a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt">
-https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt
-</a>
-</p>
-
-<hr>
-
-<h2>🛠️ Teknik Bilgiler</h2>
-
-<ul>
-  <li><strong>Uygulama Adı:</strong> TürkGPT – Türk Yapay Zeka</li>
-  <li><strong>Platform:</strong> Android</li>
-  <li><strong>Dil:</strong> Türkçe</li>
-  <li><strong>Kategori:</strong> Yapay Zekâ / Sohbet</li>
-</ul>
-
-<hr>
-
-<h2>📌 GitHub Repo Hakkında</h2>
-
-<p>
-Bu GitHub deposu:
-</p>
-
-<ul>
-  <li>TürkGPT – Türk Yapay Zeka uygulamasının tanıtımı</li>
-  <li>Dokümantasyon</li>
-  <li>Gelişim süreci ve yol haritası</li>
-</ul>
-
-<p>
-için oluşturulmuştur.
-</p>
-
-<hr>
-
-<h2>🔍 Anahtar Kelimeler (SEO)</h2>
-
-<p>
-TürkGPT, Türk Yapay Zeka, Türkçe yapay zekâ, Türkçe AI, Android yapay zekâ uygulaması, Türkçe sohbet botu, yapay zekâ asistanı
-</p>
-
-<hr>
+## 🖼️ App Screenshots
 
 <p align="center">
-<strong>TürkGPT – Türk Yapay Zeka 🇹🇷</strong>
+  <img src="https://play-lh.googleusercontent.com/gWmqQe4DtTqW0ipotUKVwCGZxUavNP2v8J9qDhxOTTiaq2KDXNRIJV9tc81Mf9vXxsX15lY2-7z0T9jQZ-DlBA=w5120-h2880-rw" 
+       alt="TürkGPT Screenshot 1"
+       width="850">
+</p>
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/DQsJNchM6OReFZL2vOEgcwCv1TKxHevFA92mGkgs5gfMftIIOy9VxCmdA5krMBhkdv8WBt4teq2nIByCpX3o=w5120-h2880-rw" 
+       alt="TürkGPT Screenshot 2"
+       width="850">
+</p>
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/OUzJDGQ_5A0UB83dDnChd3ygXRvhD8kaNR8SBvHqAjH1meAH4fXWGTSEP0KDbaAhwUteVqyIEL1QwMTtEbdAk14=w5120-h2880-rw" 
+       alt="TürkGPT Screenshot 3"
+       width="850">
+</p>
+
+---
+
+## 🛠️ Technologies
+
+This project demonstrates mobile app development and AI integration experience.
+
+- Flutter
+- Dart
+- REST API integration
+- AI API integration
+- Android development
+- Google Play publishing
+
+---
+
+## 📲 Google Play
+
+TürkGPT is published on Google Play.
+
+<p>
+  👉 <a href="https://play.google.com/store/apps/details?id=com.merensonmez.turkgpt">
+    View TürkGPT on Google Play
+  </a>
+</p>
+
+---
+
+## 📌 Project Result
+
+TürkGPT was developed and published as a real mobile application available on Google Play.
+
+This project demonstrates experience in:
+
+- Building AI-powered mobile apps
+- Developing Android apps with Flutter
+- Integrating AI APIs into mobile applications
+- Designing simple and user-friendly mobile interfaces
+- Preparing and publishing apps on Google Play
+- Creating products for real users
+
+---
+
+## 💼 Portfolio / Freelance Value
+
+This project is part of my mobile app development portfolio and shows my ability to build AI-powered mobile applications with Flutter.
+
+Similar apps can be developed for:
+
+- AI chat applications
+- Turkish AI tools
+- Mobile assistant applications
+- Productivity apps
+- Ad-supported AI apps
+- Play Store-ready Flutter applications
+
+---
+
+## 👨‍💻 Developer
+
+**Muhammed Eren Sönmez**
+
+- 🌐 Portfolio: [merensonmez.com](https://merensonmez.com)
+- 💼 LinkedIn: [linkedin.com/in/muhammederensonmez](https://www.linkedin.com/in/muhammederensonmez)
+- 🐙 GitHub: [github.com/merensonmez](https://github.com/merensonmez)
+- 📧 Email: erensonmez.business@gmail.com
+
+---
+
+## 🔍 Keywords
+
+TürkGPT, Turkish AI Assistant, Turkish Artificial Intelligence, Turkish AI, Android AI App, Flutter AI App, Turkish Chatbot, AI Assistant, Mobile AI Application
+
+---
+
+<p align="center">
+  <strong>TürkGPT – Turkish AI Assistant 🇹🇷</strong>
 </p>
